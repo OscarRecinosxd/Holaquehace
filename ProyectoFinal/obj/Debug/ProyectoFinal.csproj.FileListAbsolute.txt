@@ -1,0 +1,10 @@
+C:\Users\Oscar\RiderProjects\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Oscar\RiderProjects\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Oscar\RiderProjects\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.Jugar.resources
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
