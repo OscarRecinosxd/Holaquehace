@@ -21,6 +21,7 @@ namespace ProyectoFinal
         {
             Jugar GameWindow = new Jugar();
             GameWindow.ShowDialog();
+            
         }
     }
 }

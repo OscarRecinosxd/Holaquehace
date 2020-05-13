@@ -2,7 +2,7 @@
 
 namespace ProyectoFinal
 {
-    public class Rectangle 
+    public class Rectangle : Shape 
     {
         private int width;
         private int height;
@@ -16,18 +16,14 @@ namespace ProyectoFinal
             return x + width;
             
         }
-        
-
-        public Rectangle(int x, int y, int width, int height)
+        //int x, int y, int width, int height
+        public Rectangle() : base(275,525,30)
         {
-            this.x = 275;
-            this.y = 75;
-            this.movementX = 30;
-            this.width = 50;
-            this.height = 30;
-            
+            this.width = 70;
+            this.height =15;
         }
-        
+
+
         public void Show(Graphics g)
         {
             //SolidBrush Color = new SolidBrush(System.Drawing.Color.Lime);   

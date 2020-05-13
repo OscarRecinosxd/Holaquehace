@@ -8,3 +8,4 @@ C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.exe
 C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
 C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.Jugar.resources
 C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Oscar\RiderProjects\ProyectoFinal\obj\Debug\ProyectoFinal.Level1.resources

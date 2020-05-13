@@ -2,23 +2,20 @@
 using System.Drawing;
 using System.Runtime.Remoting.Proxies;
 
-namespace ProyectoFinal
+namespace ProyectoFinal 
 {
-    public class Circle
+    public class Circle : Shape
     {
         
         private int movementY;
         private int diameter;
         private int lifes;
-
-
-        public Circle(int x, int y, int movementX, int movementY, int diameter)
+        
+        
+        //int x, int y, int movementX, int movementY, int diameter
+        public Circle() : base(295,1,5)
         {
-            Random rnd = new Random();
-            this.x = rnd.Next(1, 200);
-            this.y = 1 ;
-            this.movementX = 20;
-            this.movementY = 20;
+            this.movementY = 5;
             this.diameter = 15;
             this.lifes = 3;
         }
@@ -45,9 +42,10 @@ namespace ProyectoFinal
 
             else if (y > Yposition && lifes>0)
             {
-                Random rnd = new Random();
-                x = rnd.Next(1, 200);
-                y = 1;
+                x = 295;
+                y = 680;
+                movementY = 5;
+                movementX = 5;
                 lifes--;
             }
         }
